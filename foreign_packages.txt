@@ -1,0 +1,12 @@
+gamemode
+gnome-disk-utility-git
+libxft-bgra
+mutt-wizard-git
+nerd-fonts-mononoki
+oh-my-zsh-git
+pam-gnupg
+rocketchat-client-bin
+st-luke-git
+timeshift
+yadm
+yay
