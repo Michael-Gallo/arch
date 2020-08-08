@@ -2,10 +2,14 @@
 
 #install git and yay so aur packages can be installed
 sudo pacman -S git
-cd $HOME
+pushd $HOME
 git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
+# get back to this folder
+cd $HOME
+sudo rm -r ./yay
+popd
 # install packages from packages.txt
 sudo pacman -S --needed $(comm -12 <(pacman -Slq | sort) <(sort packages.txt))
 # install AUR packages, need keyserver fix for libxft to work
