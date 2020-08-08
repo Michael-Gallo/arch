@@ -19,7 +19,6 @@ cpupower
 cronie
 deluge
 dialog
-discord
 dosfstools
 e2fsprogs
 fakeroot
