@@ -13,3 +13,5 @@ gpg --keyserver pool.sks-keyservers.net --recv-keys  4A193C06D35E7C670FA4EF0BA2F
 yay -S - < foreign_packages.txt
 # install exa
 cargo install exa
+# install flatpaks
+flatpak install - < flatpaks.txt
