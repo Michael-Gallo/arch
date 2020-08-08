@@ -8,5 +8,8 @@ cd yay
 makepkg -si
 # install packages from packages.txt
 sudo pacman -S --needed $(comm -12 <(pacman -Slq | sort) <(sort packages.txt))
-# install AUR packages
-yay -S < foreign_packages.txt
+# install AUR packages, need keyserver fix for libxft to work
+gpg --keyserver pool.sks-keyservers.net --recv-keys  4A193C06D35E7C670FA4EF0BA2FB9E081F2D130E
+yay -S - < foreign_packages.txt
+# install exa
+cargo install exa
