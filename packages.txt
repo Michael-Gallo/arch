@@ -36,7 +36,8 @@ gcc-libs
 gettext
 git
 glibc
-gnome-disk-utility-git
+gnome-calculator
+gnome-disk-utility
 grep
 groff
 grub
@@ -47,7 +48,6 @@ gzip
 iproute2
 iputils
 libtool
-libxft-bgra
 licenses
 lightdm
 lightdm-gtk-greeter
@@ -58,6 +58,7 @@ linux-headers
 lutris
 lvm2
 lxappearance
+lynx
 m4
 make
 man-db
@@ -72,9 +73,9 @@ networkmanager
 nitrogen
 noto-fonts
 ntfs-3g
-oh-my-zsh-git
+openbox
+openssh
 pacman
-pam-gnupg
 pasystray
 patch
 pavucontrol
@@ -88,6 +89,7 @@ psmisc
 pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
+pulsemixer
 python-pip
 ranger
 ripgrep
@@ -95,6 +97,7 @@ rocketchat-client-bin
 rust
 sed
 shadow
+skypeforlinux-stable-bin
 smplayer
 st-luke-git
 steam
