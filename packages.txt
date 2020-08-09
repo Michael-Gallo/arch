@@ -48,6 +48,7 @@ gzip
 iproute2
 iputils
 libtool
+libxft-bgra
 licenses
 lightdm
 lightdm-gtk-greeter

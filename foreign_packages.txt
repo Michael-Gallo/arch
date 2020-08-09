@@ -1,4 +1,5 @@
 gamemode
+libxft-bgra
 mutt-wizard-git
 nerd-fonts-mononoki
 rocketchat-client-bin
