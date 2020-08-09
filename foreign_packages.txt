@@ -1,7 +1,9 @@
+bitwarden
 gamemode
 libxft-bgra
 mutt-wizard-git
 nerd-fonts-mononoki
+nvm
 rocketchat-client-bin
 skypeforlinux-stable-bin
 st-luke-git
