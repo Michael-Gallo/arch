@@ -38,6 +38,7 @@ gawk
 gcc
 gcc-libs
 gettext
+gimp
 git
 glibc
 gnome-calculator
