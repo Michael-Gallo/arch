@@ -55,6 +55,7 @@ iproute2
 iputils
 lib32-vulkan-radeon
 libreoffice-fresh
+libreoffice-fresh-rpm
 libtool
 libxft-bgra
 licenses
