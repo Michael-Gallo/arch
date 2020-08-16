@@ -108,6 +108,7 @@ rocketchat-client-bin
 rust
 sed
 shadow
+simplescreenrecorder
 skypeforlinux-stable-bin
 smplayer
 st-luke-git
