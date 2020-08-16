@@ -19,3 +19,5 @@ yay -S - < foreign_packages.txt
 cargo install exa
 # install flatpaks
 flatpak install - < flatpaks.txt
+# Discord should have full filesystem permissions
+flatpak override --user --filesystem=host com.discordapp.Discord
