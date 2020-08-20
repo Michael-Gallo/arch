@@ -5,6 +5,7 @@ libxft-bgra
 mutt-wizard-git
 nerd-fonts-mononoki
 nvm
+pinta
 rocketchat-client-bin
 skypeforlinux-stable-bin
 st-luke-git

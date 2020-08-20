@@ -51,8 +51,10 @@ gvfs
 gvfs-mtp
 gvfs-smb
 gzip
+inkscape
 iproute2
 iputils
+krita
 lib32-vulkan-radeon
 libreoffice-fresh
 libreoffice-fresh-rpm
@@ -94,6 +96,7 @@ pciutils
 pcmanfm
 pcsx2
 picom
+pinta
 pkgconf
 procps-ng
 psmisc
