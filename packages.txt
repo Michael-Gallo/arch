@@ -135,6 +135,7 @@ ueberzug
 unclutter
 unzip
 util-linux
+veracrypt
 vim
 vulkan-radeon
 wget
