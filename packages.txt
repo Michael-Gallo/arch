@@ -43,6 +43,7 @@ git
 glibc
 gnome-calculator
 gnome-disk-utility
+gparted
 grep
 groff
 grub
