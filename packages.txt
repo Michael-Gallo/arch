@@ -84,6 +84,8 @@ neovim
 nerd-fonts-mononoki
 network-manager-applet
 networkmanager
+nextcloud
+nextcloud-client
 nitrogen
 noto-fonts
 ntfs-3g
@@ -115,6 +117,7 @@ shadow
 simplescreenrecorder
 skypeforlinux-stable-bin
 smplayer
+spideroak-one
 st-luke-git
 steam
 stress

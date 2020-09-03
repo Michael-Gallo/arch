@@ -8,6 +8,7 @@ nvm
 pinta
 rocketchat-client-bin
 skypeforlinux-stable-bin
+spideroak-one
 st-luke-git
 timeshift
 yadm
