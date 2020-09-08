@@ -28,6 +28,7 @@ fakeroot
 feh
 file
 filesystem
+filezilla
 findutils
 firefox
 flatpak
@@ -52,6 +53,7 @@ gvfs
 gvfs-mtp
 gvfs-smb
 gzip
+htop
 inkscape
 iproute2
 iputils
@@ -68,6 +70,7 @@ lightdm-gtk-greeter-settings
 linux
 linux-firmware
 linux-headers
+lua
 lutris
 lvm2
 lxappearance
