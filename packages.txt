@@ -38,6 +38,7 @@ gamemode
 gawk
 gcc
 gcc-libs
+geary
 gettext
 gimp
 git
@@ -92,6 +93,7 @@ nextcloud-client
 nitrogen
 noto-fonts
 ntfs-3g
+numlockx
 openbox
 openssh
 pacman
