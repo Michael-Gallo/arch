@@ -19,6 +19,7 @@ cinnamon
 coreutils
 cpupower
 cronie
+cups
 deluge
 dialog
 dosfstools
@@ -129,6 +130,7 @@ stress
 sudo
 sxhkd
 sysbench
+system-config-printer
 systemd
 systemd-sysvcompat
 tar
