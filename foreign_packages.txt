@@ -1,6 +1,7 @@
 bitwarden
 gamemode
 libreoffice-fresh-rpm
+libsane-dsseries
 libxft-bgra
 mutt-wizard-git
 nerd-fonts-mononoki

@@ -63,6 +63,7 @@ krita
 lib32-vulkan-radeon
 libreoffice-fresh
 libreoffice-fresh-rpm
+libsane-dsseries
 libtool
 libxft-bgra
 licenses
@@ -118,10 +119,14 @@ ranger
 ripgrep
 rocketchat-client-bin
 rust
+sane
+sane-airscan
 sed
 shadow
+simple-scan
 simplescreenrecorder
 skypeforlinux-stable-bin
+smartmontools
 smplayer
 spideroak-one
 st-luke-git
