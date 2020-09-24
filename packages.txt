@@ -55,6 +55,7 @@ gvfs
 gvfs-mtp
 gvfs-smb
 gzip
+hsetroot
 htop
 inkscape
 iproute2
@@ -85,6 +86,7 @@ man-db
 man-pages
 mesa
 mutt-wizard-git
+neofetch
 neomutt
 neovim
 nerd-fonts-mononoki
@@ -99,6 +101,7 @@ numlockx
 openbox
 openssh
 pacman
+pacwall-git
 pasystray
 patch
 pavucontrol

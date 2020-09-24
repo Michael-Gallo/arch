@@ -1,11 +1,13 @@
 bitwarden
 gamemode
+lib32-wxgtk2
 libreoffice-fresh-rpm
 libsane-dsseries
 libxft-bgra
 mutt-wizard-git
 nerd-fonts-mononoki
 nvm
+pacwall-git
 rocketchat-client-bin
 skypeforlinux-stable-bin
 spideroak-one
