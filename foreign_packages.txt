@@ -1,5 +1,4 @@
 bitwarden
-gamemode
 lib32-wxgtk2
 libreoffice-fresh-rpm
 libsane-dsseries
