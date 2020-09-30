@@ -1,4 +1,7 @@
 bitwarden
+dotnet-runtime-bin
+dotnet-sdk-bin
+fvim
 lib32-wxgtk2
 libreoffice-fresh-rpm
 libsane-dsseries

@@ -34,6 +34,7 @@ findutils
 firefox
 flatpak
 flex
+fvim
 fzf
 gamemode
 gawk
@@ -54,6 +55,7 @@ grub-customizer
 gvfs
 gvfs-mtp
 gvfs-smb
+gvim
 gzip
 hsetroot
 htop
@@ -155,7 +157,6 @@ unclutter
 unzip
 util-linux
 veracrypt
-vim
 vulkan-radeon
 wget
 which
