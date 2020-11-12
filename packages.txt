@@ -8,6 +8,8 @@ bash
 bashtop
 binutils
 bison
+bitwarden
+bitwarden-cli
 blueman
 bluez
 bpytop
@@ -99,6 +101,7 @@ luit
 lutris
 lvm2
 lxappearance-obconf
+lxdm
 lynx
 m4
 maim
@@ -131,6 +134,8 @@ obconf
 openbox
 openssh
 pacman
+pass-otp
+passmenu-otp-git
 pasystray
 patch
 pavucontrol
@@ -253,6 +258,7 @@ yadm
 yay
 zathura
 zathura-pdf-mupdf
+zbar
 zsh
 zsh-autosuggestions
 zsh-completions

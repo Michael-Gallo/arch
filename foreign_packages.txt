@@ -1,4 +1,6 @@
 autojump-git
+bitwarden
+bitwarden-cli
 bluez-utils-compat
 bpytop
 brscan4
@@ -23,6 +25,7 @@ ncurses5-compat-libs
 nerd-fonts-mononoki
 nerd-fonts-source-code-pro
 nvm
+passmenu-otp-git
 python-pygame_sdl2-git
 radeon-profile-git
 radeontop
