@@ -87,7 +87,6 @@ htop
 inkscape
 iproute2
 iputils
-kdeconnect
 lib32-ncurses5-compat-libs
 lib32-vulkan-radeon
 libgnome-keyring
@@ -282,6 +281,7 @@ xterm
 xz
 yadm
 yay
+youtube-dl
 zathura
 zathura-pdf-mupdf
 zbar
