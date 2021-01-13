@@ -1,3 +1,4 @@
+antigen
 autojump
 bitwarden
 bitwarden-cli
