@@ -232,6 +232,7 @@ virt-bootstrap-git
 virt-manager
 virt-viewer
 vulkan-radeon
+waterfox-g3-bin
 wget
 which
 wireless_tools

@@ -52,6 +52,7 @@ timeshift
 totp-cli
 ttf-ms-fonts
 virt-bootstrap-git
+waterfox-g3-bin
 xz-static
 yadm
 yay
