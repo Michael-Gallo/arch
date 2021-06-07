@@ -17,7 +17,6 @@ debtap
 dragon-drag-and-drop
 ds4drv
 electron6
-ethminer-bin
 foxitreader
 gstreamer0.10
 gstreamer0.10-base

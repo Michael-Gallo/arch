@@ -53,7 +53,6 @@ ds4drv
 e2fsprogs
 emacs
 entr
-ethminer-bin
 evtest
 fakeroot
 fd
