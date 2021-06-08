@@ -39,6 +39,7 @@ nerd-fonts-mononoki
 nerd-fonts-source-code-pro
 nvm
 opencl-amd
+paru
 passmenu-otp-git
 protonmail-bridge-bin
 protonvpn-cli-ng
@@ -56,6 +57,7 @@ termcap
 timeshift-bin
 totp-cli
 ttf-ms-fonts
+ventoy-bin
 vkcube-git
 waterfox-g3-bin
 webkitgtk-bin

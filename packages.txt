@@ -173,6 +173,7 @@ openssh
 openvr
 pacman
 pamixer
+paru
 pass-otp
 passmenu-otp-git
 pasystray
@@ -286,6 +287,7 @@ unclutter
 unrar
 unzip
 util-linux
+ventoy-bin
 veracrypt
 vkcube-git
 vulkan-radeon
