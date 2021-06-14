@@ -26,6 +26,7 @@ calcurse
 catfish
 cheese
 chromium
+code
 conntrack-tools
 corectrl
 coreutils
