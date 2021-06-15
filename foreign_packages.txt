@@ -53,6 +53,7 @@ rocketchat-client-bin
 skypeforlinux-stable-bin
 spideroak-one
 st-luke-git
+teams
 termcap
 timeshift-bin
 totp-cli
