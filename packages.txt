@@ -1,5 +1,6 @@
 abook
 amdgpu-fancontrol-git
+anaconda
 antibody
 antigen
 arandr
@@ -99,6 +100,7 @@ htop
 icecat-bin
 iproute2
 iputils
+jupyter
 lib32-giflib
 lib32-gst-plugins-base-libs
 lib32-gtk3

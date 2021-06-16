@@ -1,5 +1,6 @@
 abook
 amdgpu-fancontrol-git
+anaconda
 antibody
 antigen
 autojump
