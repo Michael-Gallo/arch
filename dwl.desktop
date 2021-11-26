@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=DWL
+Comment=Dynamic wayland manager
+Exec=dwl
+Icon=dwl
+Type=WaylandSession

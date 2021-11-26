@@ -54,6 +54,15 @@ sudo make clean install
 cd blocks
 sudo make clean install
 popd
+sudo cp dwm.desktop /usr/share/xsessions
+# Install dwl
+echo "Installing dwl"
+pushd $HOME
+git clone git@gitlab.com:michaelagallo95/dwl.git
+cd dwl
+sudo make clean install
+popd
+sudo cp dwl.desktop /usr/share/wayland-sessions
 # Install dmenu
 echo "Installing Dmenu"
 pushd $HOME
@@ -67,4 +76,3 @@ git clone git@github.com:LukeSmithxyz/st.git
 cd st
 sudo make install
 cd ..
-rm -r ./st
