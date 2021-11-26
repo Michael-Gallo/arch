@@ -13,8 +13,6 @@ sudo rm -r ./paru
 popd
 echo "Setting github"
 # Set github and gitlab to always use ssh
-git config --global --add url."git@github.com:".insteadOf "https://github.com/"
-git config --global --add url."git@gitlab.com:".insteadOf "https://github.com/"
 # set git user and email
 echo "Enter your email"
 read email
