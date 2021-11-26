@@ -15,3 +15,7 @@ ttf-liberation
 ttf-mononoki
 noto-fonts
 nerd-fonts-mononoki
+wlroots
+wayland-protocols
+xorg-xwayland
+grimshot
