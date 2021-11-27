@@ -13,9 +13,14 @@ ttf-joypixels
 ttf-font-awesome-4
 ttf-liberation
 ttf-mononoki
+ttf-fira-code
 noto-fonts
 nerd-fonts-mononoki
 wlroots
 wayland-protocols
 xorg-xwayland
 grimshot
+ripgrep
+fzf
+ranger
+ueberzug
