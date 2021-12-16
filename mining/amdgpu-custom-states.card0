@@ -1,0 +1,8 @@
+# Set custom GPU states 6 & 7:
+OD_SCLK:
+0: 500MHz
+1: 1165MHz
+OD_MCLK:
+1: 1135MHz
+OD_VDDGFX_OFFSET: -70mV
+FORCE_PERF_LEVEL: manual
