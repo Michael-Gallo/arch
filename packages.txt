@@ -24,3 +24,7 @@ ripgrep
 fzf
 ranger
 ueberzug
+otf-font-awesome
+ttf-font-awesome
+nerd-fonts-mononoki
+ttf-dejavu
